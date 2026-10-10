@@ -40,8 +40,6 @@ Path traversal in `admin/delete.php` can allow arbitrary file deletion (CWE-22 /
 ---
 ## Evidence Screenshots
 
-Replace these placeholders with the corresponding screenshots:
-
 ![Screenshot 1: Uploaded file and upload result](FileDeletionviaPathTraversal.png)
 
 ## Technical Details — Vulnerable Code (`admin/delete.php`)
