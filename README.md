@@ -23,7 +23,9 @@ Path traversal in `admin/delete.php` can allow arbitrary file deletion (CWE-22 /
 ## Finding Details
 
 **Entry:** VDB-426508
+
 **CVE ID:** CVE-2026-116602
+
 
 | Field | Value |
 |---|---|
